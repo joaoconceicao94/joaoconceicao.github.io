@@ -1,6 +1,6 @@
 .div-class {
   /* Set a background color */
-  background-color: #f0f0f0;
+  background-color: #ff5a5a;
 
   /* Set padding */
   padding: 20px;
@@ -9,7 +9,7 @@
   border: 1px solid #ccc;
 
   /* Set border radius for rounded corners */
-  border-radius: 5px;
+  border-radius: 10px;
 
   /* Set box shadow for a 3D effect */
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
